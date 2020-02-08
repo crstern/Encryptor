@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1581164701 source:c:\users\stern cristian\desktop\coding\bmp encryptor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1581164397 source:c:\users\stern cristian\desktop\coding\bmp encryptor\decryptor.c
+	<stdlib.h>
+	<stdio.h>
+
+1581164808 source:c:\users\stern cristian\desktop\coding\bmp encryptor\encryptor.c
+	<stdio.h>
+	<stdlib.h>
+
